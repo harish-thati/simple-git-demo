@@ -1,2 +1,3 @@
 This is added from master
 This line is added from feature - now modified by feature2
+This line is added from feature3 -- local repository
