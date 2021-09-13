@@ -1,3 +1,4 @@
 # simple-git-demo
 
-This is just for demoing git commands
+This is just for demoing git commands.
+Quite interesting.
