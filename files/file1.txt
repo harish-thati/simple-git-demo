@@ -3,3 +3,4 @@ This line is added from feature - now modified by feature2
 This line is added from feature3 -- local repository -- git stash example
 made changes from mainline branch
 changes for mainline commit 2
+updated file from rel/test-1.1.0 branch - 1.1.0-RC1 commit
